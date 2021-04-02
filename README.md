@@ -1,4 +1,7 @@
-### Hi there 👋
+### A bit about me 👋
+
+- 🌱 I’m currently learning some Ruby (but just a bit).
+- 🔭 I’m currently working on some things over on Observable.
 
 <!--
 **guypursey/guypursey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
