@@ -1,7 +1,7 @@
 ### A bit about me 👋
 
 - 🌱 I’m currently working through [an online course by Edward Tufte](https://www.edwardtufte.com/tufte/courses).
-- 🔭 I’m currently working on some things [over on Observable](https://observablehq.com/@guypursey) (slowly).
+- 🔭 I’m also creating some things [over on Observable](https://observablehq.com/@guypursey) (slowly).
 
 <!--
 **guypursey/guypursey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
