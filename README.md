@@ -1,6 +1,6 @@
 ### A bit about me 👋
 
-- 🌱 I’m currently learning some Ruby (but just a bit).
+- 🌱 I’m currently working through [an online course by Edward Tufte](https://www.edwardtufte.com/tufte/courses).
 - 🔭 I’m currently working on some things [over on Observable](https://observablehq.com/@guypursey) (slowly).
 
 <!--
